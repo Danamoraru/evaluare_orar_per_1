@@ -1,0 +1,32 @@
+body {
+    font-family: 'Epilogue', sans-serif;
+    margin-left: 100px;
+    min-height: 100vh;
+    margin-top: 70px;
+    background: url(images/Usarb.jpg) center no-repeat;
+    background-size: cover;
+}
+    .principal_container{
+        width: 200px;
+        height: 50px;
+        background-color: azure;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 9px;
+        border: 1px solid;
+        margin: 20px;
+        font-size: 24px;
+        font-weight: bold ;
+    }
+    .navigation{
+        margin: 30px;
+        height: 40px;
+        display: flex;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+    }
+    .nav-button
+   
+.
+ 
